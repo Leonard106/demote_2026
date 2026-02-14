@@ -1,6 +1,6 @@
 # Demo de git basico (palitos y bolitas 1)
 ## Temas especiales ICO - 2026
-### Alumno:Leonardo C. A.
+### Alumno: Leonardo C. A.
 
 #Otro titulo
 
